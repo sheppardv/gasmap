@@ -1,0 +1,235 @@
+[
+    {
+        "fuels": [
+            "A-95", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "50.154568", 
+        "lng": "50.154568", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.796171", 
+        "lng": "49.796171", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel", 
+            "Power Gas"
+        ], 
+        "lat": "49.86606", 
+        "lng": "49.86606", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Restaurant", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.788576", 
+        "lng": "49.788576", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.855885", 
+        "lng": "49.855885", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Restaurant", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.655695", 
+        "lng": "49.655695", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Restaurant", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel", 
+            "Power Gas"
+        ], 
+        "lat": "49.89155", 
+        "lng": "49.89155", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Restaurant", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "50.164001", 
+        "lng": "50.164001", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.653313", 
+        "lng": "49.653313", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.5441", 
+        "lng": "49.5441", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.908296", 
+        "lng": "49.908296", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel"
+        ], 
+        "lat": "49.779356", 
+        "lng": "49.779356", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Toilet"
+        ]
+    }, 
+    {
+        "fuels": [
+            "A-95", 
+            "A-92", 
+            "V-Power Nitro+ Diesel", 
+            "Diesel", 
+            "Power Gas"
+        ], 
+        "lat": "49.947309", 
+        "lng": "49.947309", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop", 
+            "Shell V-Power Nitro+"
+        ]
+    }, 
+    {
+        "fuels": [
+            "Diesel"
+        ], 
+        "lat": "49.526205", 
+        "lng": "49.526205", 
+        "name": "Shell", 
+        "services": [
+            "24 Hour", 
+            "Shop"
+        ]
+    }
+]
